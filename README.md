@@ -16,7 +16,7 @@ Log4j의 upgrade된  버전의 xml같은 환경설정에 변화가 있더라도 
 ### Development Environment
 기술 | 세부 사항
 ------------------------ | -------------------------
-FRONT-END| HTML5, CSS3, JavaScript, Ajax(JSON), REST API, jQuery v1.11.2, Bootstrap v3.3.2,jqGrid
+FRONT-END| HTML5, CSS3, JavaScript, Ajax(JSON), REST API, jQuery v1.11.2, Bootstrap v3.3.2, jqGrid
 BACK-END | Java 8, JSP, Spring Framework v4.3.12, Spring Security v3.2.5, MyBatis v3.4.4
 DATABASE | MySQL v5.7.21
 
